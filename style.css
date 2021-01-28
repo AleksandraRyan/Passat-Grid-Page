@@ -47,6 +47,10 @@ img {
   cursor: pointer;
 }
 
+.bottom-img {
+  margin-top: 10px;
+}
+
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 40px 0;
@@ -62,7 +66,7 @@ h3 {
 }
 
 button {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   padding: 10px 30px;
   background: rgb(80, 176, 235);
   color: rgb(253, 253, 253);
@@ -107,11 +111,5 @@ button:hover {
     margin: 30px 0;
 
     text-align: center;
-  }
-
-  h3 {
-  }
-
-  button {
   }
 }
